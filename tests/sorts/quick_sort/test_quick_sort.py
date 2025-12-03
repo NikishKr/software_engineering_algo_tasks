@@ -1,3 +1,5 @@
+import pytest
+
 from tasks.sorts.quick_sort.solution import quick_sort
 
 

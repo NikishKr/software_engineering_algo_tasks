@@ -1,3 +1,5 @@
+import pytest
+
 from tasks.sorts.insertion_sort.solution import insertion_sort
 
 

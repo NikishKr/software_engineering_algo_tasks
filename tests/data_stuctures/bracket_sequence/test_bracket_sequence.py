@@ -1,3 +1,5 @@
+import pytest
+
 from tasks.data_stuctures.bracket_sequence.solution import is_correct_bracket_seq
 
 

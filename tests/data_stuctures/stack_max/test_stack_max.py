@@ -1,3 +1,5 @@
+import pytest
+
 from tasks.data_stuctures.stack_max.solution import StackMax
 
 

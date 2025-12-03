@@ -1,3 +1,5 @@
+import pytest
+
 from tasks.data_stuctures.update_list.solution import Node, solution
 
 

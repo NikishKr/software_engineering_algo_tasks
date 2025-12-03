@@ -1,3 +1,5 @@
+import pytest
+
 from tasks.recursion.binary_search.solution import binary_search
 
 
