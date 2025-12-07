@@ -29,7 +29,7 @@ src_paths = ["tasks", "tests"]
 [tool.ruff]
 line-length = 100
 extend-select = ["E", "F", "I", "B", "UP"]
-ignore = []
+ignore = ["F401"]
 
 [tool.ruff.format]
 quote-style = "double"

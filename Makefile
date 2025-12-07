@@ -14,4 +14,4 @@ lint-all:
 	poetry run pre-commit run --all-files
 
 test:
-	poetry run pytest ./tests
+    poetry run python -m pytest tests/ -q
